@@ -414,7 +414,7 @@ iframe.mapa {
 }
 
 .bloque:nth-child(2){
-    background-image: url(/img/fotos/nenas.jpg);
+    background-image: url(/img/nenas.jpg);
     background-size: cover;
     background-position: center center;
     background-repeat: no-repeat;
@@ -426,7 +426,7 @@ iframe.mapa {
 }
 
 .bloque:nth-child(4){
-    background-image: url(/img/fotos/pantera.jpg);
+    background-image: url(/img/pantera.jpg);
     background-size: cover;
     background-position: center center;
     background-repeat: no-repeat;
